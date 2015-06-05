@@ -8,4 +8,4 @@ During this series of tutorials, we're going to design a Magazine blog layout, c
 
 Source files for the Tuts+ tutorial series: [Build a Responsive Layout With Skeleton](https://webdesign.tutsplus.com/series/build-a-responsive-layout-with-skeleton--webdesign-15624)
 
-[View the demo](http://tutsplus.github.io/4-jquery-plugins/index.html)
+[View the demo](http://tutsplus.github.io/building-a-responsive-layout-with-skeleton/4-jquery-plugins/index.html)
